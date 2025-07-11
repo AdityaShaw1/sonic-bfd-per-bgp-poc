@@ -1,0 +1,8 @@
+{
+  "BGP_NEIGHBOR": {
+    "10.0.0.2": {
+      "remote_asn": "65002",
+      "bfd": "true"
+    }
+  }
+}
